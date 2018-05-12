@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+.text {
+  font-family: 'Special Elite', cursive;
+  font-size: 1.5em;
+
+}
+
+#grid {
+  font-family: 'Special Elite', cursive;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin: 10px;
+  background-color: #94b8b8;
+  font-size: 1em;
+  padding: 8px 22px;
+  border: none;
+
+}
+.new{
+  font-size: 30px;
+}
+#canvas {
+max-width: 80%;
+
+
+}
+table,
+tr,
+td {
+    border: 1px solid black;
+}
